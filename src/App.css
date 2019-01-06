@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+
+
+.group{
+    margin: 20px 0;
+    border-bottom: 1px dashed #999999;
+}
